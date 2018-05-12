@@ -17,6 +17,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Jos%C3%A9_Agostinho_de_Macedo
     - http://en.wikipedia.org/wiki/Jos%C3%A9_Agostinho_de_Macedo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26848#Newton--Poema
 gutenberg_issued: '2008-10-08'
 gutenberg_type: Text
 identifiers:
